@@ -6,7 +6,7 @@
 
 ##  Sobre mí
 
-Soy un desarrollador apasionado por **crear soluciones tecnológicas que resuelvan problemas reales**. Me interesa automatizar procesos y construir sistemas que generen valor tangible
+Soy un desarrollador comprometido por **crear soluciones tecnológicas que resuelvan problemas reales**. Me interesa automatizar procesos y construir sistemas que generen valor tangible
 
 Actualmente busco **aprender mas tecnologias** que me ayuden a pulir mis habilidades técnicas y llevar mis proyectos al siguiente nivel.
 
