@@ -6,7 +6,7 @@
 
 ##  Sobre mí
 
-Soy un desarrollador apasionado por **crear soluciones tecnológicas que resuelvan problemas reales**. Me enfoco en automatizar procesos y construir sistemas que generen valor tangible, no solo en escribir código.
+Soy un desarrollador apasionado por **crear soluciones tecnológicas que resuelvan problemas reales**. Me interesa automatizar procesos y construir sistemas que generen valor tangible
 
 Actualmente busco **aprender mas tecnologias** que me ayuden a pulir mis habilidades técnicas y llevar mis proyectos al siguiente nivel.
 
@@ -36,7 +36,7 @@ Actualmente busco **aprender mas tecnologias** que me ayuden a pulir mis habilid
 ## 🚀 Proyectos Destacados
 
 ### [🌿 RIDM - Plataforma Web Corporativa](https://github.com/JULIO-MILAN/ridm)
-**Sitio web en producción** para empresa real de gestión de residuos. Incluye branding completo, 10 secciones estratégicas y dominio personalizado.
+**Sitio web en producción** para empresa real de gestión de residuos. Incluye branding completo, secciones estratégicas y dominio personalizado.
 - **Stack:** HTML5, CSS3, JavaScript (Vanilla)
 - **Impacto:** Digitalización completa de presencia corporativa B2B
 
@@ -48,7 +48,6 @@ Plataforma de gestión de eventos con backend Node.js/Express y base de datos Po
 ### [⚡ MANTRA - Versión Estática](https://github.com/JULIO-MILAN/mantra-estatico)
 Migración a arquitectura 100% estática. 19 archivos JSON replicando modelo relacional. Demostración de adaptabilidad y optimización.
 - **Stack:** HTML5, CSS3, JavaScript, JSON, localStorage
-- **Destacado:** Single-file architecture para máximo rendimiento
 
 ---
 
@@ -87,7 +86,7 @@ Migración a arquitectura 100% estática. 19 archivos JSON replicando modelo rel
 
 <div align="center">
 
-**"De la necesidad de automatizar procesos reales, nacen las mejores soluciones tecnológicas"**
+**"No existe una teoría. Simplemente hay que escuchar"**
 
  *Si te interesa mi perfil, no dudes en contactarme*
 
